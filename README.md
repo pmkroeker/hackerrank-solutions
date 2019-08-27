@@ -22,6 +22,7 @@ The order below is the order that I solved them, from oldest (top) to most recen
 - [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)
 - [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
 - [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+- [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)
 
 ## In Progress
 - [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)

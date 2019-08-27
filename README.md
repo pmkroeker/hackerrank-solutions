@@ -3,6 +3,8 @@ Personal hackerrank solutions
 
 These are the local files I have used to complete the solutions. They are not fully pastable into the hackerrank solutions terminal, but most have a function that is.
 
+The order below is the order that I solved them, from oldest (top) to most recent (bottom).
+
 ## Currently Solved Solutions
 - [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)
 - [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
@@ -18,6 +20,7 @@ These are the local files I have used to complete the solutions. They are not fu
 - [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 - [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
 - [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)
+- [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
 
 ## In Progress
 - [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)

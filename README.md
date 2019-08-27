@@ -1,6 +1,8 @@
 # hackerrank-solutions
 Personal hackerrank solutions
 
+These are the local files I have used to complete the solutions. They are not fully pastable into the hackerrank solutions terminal, but most have a function that is.
+
 ## Currently Solved Solutions
 - [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem)
 - [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)

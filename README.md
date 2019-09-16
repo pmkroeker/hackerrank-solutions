@@ -23,6 +23,7 @@ The order below is the order that I solved them, from oldest (top) to most recen
 - [Grading Students](https://www.hackerrank.com/challenges/grading/problem)
 - [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)
 - [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)
+- [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
 
 ## In Progress
 - [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)

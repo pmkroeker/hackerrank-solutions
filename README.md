@@ -28,6 +28,7 @@ The order below is the order that I solved them, from oldest (top) to most recen
 - [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 - [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
 - [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+- [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)
 
 ## In Progress
 - [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)

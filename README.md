@@ -30,6 +30,7 @@ The order below is the order that I solved them, from oldest (top) to most recen
 - [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
 - [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)
 - [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+- [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
 
 ## In Progress
 - [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)

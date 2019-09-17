@@ -35,5 +35,6 @@ The order below is the order that I solved them, from oldest (top) to most recen
 - [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
 
 ## In Progress
+- [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
 - [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
 - [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)

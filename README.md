@@ -31,6 +31,7 @@ The order below is the order that I solved them, from oldest (top) to most recen
 - [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)
 - [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 - [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
+- [Breaking Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 
 ## In Progress
 - [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)

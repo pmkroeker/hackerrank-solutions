@@ -32,6 +32,7 @@ The order below is the order that I solved them, from oldest (top) to most recen
 - [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 - [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)
 - [Breaking Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+- [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
 
 ## In Progress
 - [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)

@@ -34,6 +34,7 @@ The order below is the order that I solved them, from oldest (top) to most recen
 - [Breaking Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 - [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
 - [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
+- [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 
 ## In Progress
 - [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
